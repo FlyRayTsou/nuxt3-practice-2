@@ -1,0 +1,1 @@
+# nuxt3-practice-2
